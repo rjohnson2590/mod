@@ -8,5 +8,6 @@ function superSecret() {
 
 module.exports = {
 	version: '0.0.1',
-	otherName: sayHello
+	otherName: sayHello,
+	yolo: superSecret
 };
