@@ -3,7 +3,7 @@ function sayHello(){
 }
 
 function superSecret() {
-	consloe.log('Noooooooo you cant do that');
+	console.log('Noooooooo you cant do that');
 }
 
 module.exports = {
